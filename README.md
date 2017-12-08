@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Awesome Landing Page - Free Bootstrap Page](http://demos.creative-tim.com/landing-page)
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/27/original/opt_alp_thumbnail.jpg "Awesome Landing Page")
@@ -98,3 +99,6 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+=======
+# 160-final-website
+>>>>>>> 3b884e3deb16dbd064479be21dacc1add9f3a4fd
